@@ -1,3 +1,11 @@
 body{
-    background-color: blueviolet;
+    background-color: white;
+}
+
+#umesh{
+    border: 25mm;
+    border-color: red;
+    border-style: ridge;
+    padding: 10px;
+    font-size: 10mm;
 }
