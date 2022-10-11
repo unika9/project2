@@ -4,7 +4,7 @@ body{
 
 #umesh{
     border: 25mm;
-    border-color: red;
+    border-color: rgb(95, 104, 185);
     border-style: ridge;
     padding: 10px;
     font-size: 10mm;
